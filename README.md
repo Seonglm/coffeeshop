@@ -1,0 +1,7 @@
+- 使用 Vue CLI 搭建项目
+- 制定代码规范定义了全局样式
+- 使用 rem+flex 布局，以及 iconfont 字体图标
+- 使用正则规范用户注册信息
+- 使用 Vant 组件库、less 编写 UI 界面
+- 使用 Vue Router 搭建项目路由，使用 Vuex 进行数据缓存
+- 使用 axios 请求后台数据

@@ -1,0 +1,30 @@
+{
+  "id": "1926123",
+  "name": "dqshop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2188989",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e7eb",
+      "unicode_decimal": 59371
+    },
+    {
+      "icon_id": "8908262",
+      "name": "收 藏",
+      "font_class": "shoucang1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12193272",
+      "name": "cup of coffee",
+      "font_class": "cupofcoffee",
+      "unicode": "ebb0",
+      "unicode_decimal": 60336
+    }
+  ]
+}
